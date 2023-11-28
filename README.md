@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **ML & DL**
+- 🌱 I’m currently Exploring **ML & DL**
 
 - 💬 Ask me about **Node js, React Js, JavaScript**
 
