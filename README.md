@@ -4,8 +4,6 @@
 <br>
 <br>
 
-- 🌱 I’m currently Exploring **ML & DL**
-
 - 💬 Ask me about **Node js, React Js, JavaScript**
 
 - 📫 How to reach me **harshpatel00024@gmail.com**
