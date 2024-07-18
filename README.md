@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 💬 Ask me about **Node js, React Js, JavaScript**
+- 💬 Ask me about **Node js, React Js, JavaScript, MERN stack**
 
 - 📫 How to reach me **harshpatel00024@gmail.com**
 
